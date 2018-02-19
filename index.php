@@ -25,7 +25,7 @@
 	<nav id="mobile_menu"></nav>
 	<nav id="nav_menu">
 		<ul>
-			<li><a href="main.php"> Contact Information</a></li>
+			<li><a href="index.php"> Contact Information</a></li>
 			<li><a href="education.php">Education</a></li>
 			<li><a href="workexperience.php">Work Experience</a></li>
 			<li><a href="interest.php">Interests</a></li>

@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" >
 		<title>Professional profile</title>
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="index.css">
 		<link rel="stylesheet" href="slicknav.css">
 		<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 		<script src="jquery.slicknav.min.js"></script>
